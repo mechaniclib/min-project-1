@@ -8,3 +8,4 @@ final= [random.choice(sampleList) for i in range(COUNT)]
 print(final)
 final_no_du= random.sample(sampleList, COUNT)
 print(final_no_du)
+print("안녕")
